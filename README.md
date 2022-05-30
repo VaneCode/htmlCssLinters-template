@@ -1,16 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Set up Hello Microverse
+# Biography project
 
-> Set up a "Hello Microverse" project.
+> A trial project in html and css to show a short biography of Dr. Norman Borlaug.
 
 
 ## Built With
 
 - HTML/CSS
-- Visual Studio
+- Visual Studio.
 
-## Authors
+## Author
 
 👤 **Vanessa Bonito**
 
